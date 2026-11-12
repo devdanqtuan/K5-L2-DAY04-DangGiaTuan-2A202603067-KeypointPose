@@ -1,0 +1,43 @@
+{
+ "mssv": "2A202603067",
+ "ten": "DangGiaTuan",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "danqgiatuan",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000043968.jpg",
+  "000000103970.jpg",
+  "000000213933.jpg",
+  "000000390585.jpg",
+  "000000399983.jpg",
+  "000000188804.jpg",
+  "000000311497.jpg",
+  "000000461389.jpg",
+  "000000123544.jpg",
+  "000000297227.jpg",
+  "000000438099.jpg",
+  "000000130816.jpg"
+ ],
+ "faces": [
+  "face_125051.jpg",
+  "face_575921.jpg",
+  "face_85624.jpg",
+  "face_415073.jpg",
+  "face_53580.jpg",
+  "face_143959.jpg",
+  "face_146049.jpg",
+  "face_560282.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 19,
+   "job_id": 17,
+   "task_name": "persons-DangGiaTuan"
+  },
+  "faces": {
+   "task_id": 20,
+   "job_id": 18,
+   "task_name": "faces-DangGiaTuan"
+  }
+ }
+}
